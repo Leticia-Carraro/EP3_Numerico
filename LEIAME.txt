@@ -1,5 +1,3 @@
-# EP3_Numerico
-
 # Numerico_EP1
 
 ## Requisitos

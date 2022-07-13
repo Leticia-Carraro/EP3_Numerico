@@ -1,5 +1,5 @@
 import numpy as np
-from math import e, pi, cos, sin, log
+from math import e, pi, cos, sin, log, log10, log2, tan, sqrt, tanh, cosh, acos, asin, atan, sinh
 import functions as f
 
 print("EP 3 - Numérico\nModelagem de um Sistema de Resfriamento de Chips\n")

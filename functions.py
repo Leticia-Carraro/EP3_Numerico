@@ -1,5 +1,5 @@
 import numpy as np
-from math import e, pi, cos, sin, log
+from math import e, pi, cos, sin, log, tan, log10, log2, sqrt, tanh, cosh, acos, asin, atan, sinh
 
 
 ## GAUSS DE DOIS PONTOS
