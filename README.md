@@ -42,9 +42,11 @@ Feito isso, o programa terá sido inciado e você deverá está vendo uma mensag
 ### Modo de operação
 Antes de inserir dados você devera especificar qual o modo de operação desejado e tens três 
 escolhas: 
+
     [1] - MÉTODO DE RITZ RALEIGH CÚBICO
     [2] - MÉTODO DAS DIFERENÇAS FINITAS LINEAR
     [3] - MÉTODO DOS ELEMENTOS FINITOS
+    
 Para selecionar uma opção digite APENAS o número em colchetes e pressione enter.
 
 
