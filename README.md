@@ -51,9 +51,12 @@ Para selecionar uma opção digite APENAS o número em colchetes e pressione ent
 ### Modo de inserção de dados
 Após especificar o modo de operação serão pedidos os dados relevantes para a resolução
 do problema de maneira sequencial. 
+
     INSERÇÃO DE FUNÇÕES
+
     Atente-se ao modo de inserir equações. Sempre insira a equação entre parentesis e 
     seguindo as regras abaixo:
+
     | OPERAÇÃO             | OPERADOR  | 
     |----------------------|-----------|
     | Multiplicação        |     *     | 
@@ -78,20 +81,27 @@ do problema de maneira sequencial.
     | e(Num de euler)      |      e    | 
     | pi                   |     pi    | 
     
+
     Caso a função desejada não possa ser feita com elementos da tabela, assuma que 
     o programa não será capaz de executa-la.
+
     Exemplos de funções corretamente inseridas:
+
         - (3*log(x)+4)
         - (e**(x**2))
+  
     Exemplos de funções inseridas de maneira INCORRETA:
+
         - 3log(x)
         - (eˆ(xˆ2))
     
 
+
     OBSERVAÇÕES ADICIONAIS
-    >> Separador decimal é o PONTO.
-    >> Valor negativo basta colocar - na frente.
-    >> EX: -9.23456
+
+        >> Separador decimal é o PONTO.
+        >> Valor negativo basta colocar - na frente.
+        >> EX: -9.23456
 
 
 ## Dados de saída

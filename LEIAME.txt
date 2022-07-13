@@ -11,6 +11,7 @@ proposto. Cada função tem seu comportamento explicado no código. O arquivo ma
 arquivo que deve ser executado para obter os resultados do programa. Informações mais
 detalhadas estão na parte execução desse LEIAME.
 
+
 | Entrada  |   Tipo    | 
 |----------|-----------|
 | n        |   `int`   |
